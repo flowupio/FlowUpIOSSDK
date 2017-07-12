@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   s.name         = "FlowUpIOSSDK"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "iOS SDK to collect performance metrics easily using https://flowup.io."
 
   s.homepage     = "https://flowup.io"

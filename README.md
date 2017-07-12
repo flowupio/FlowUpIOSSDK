@@ -7,7 +7,7 @@ iOS SDK to collect performance metrics easily using [FlowUp](http://flowup.io)
 * Include the SDK in your `Podfile`:
 
 ```ruby
-pod 'FlowUpIOSSDK', '~> 0.0.2'
+pod 'FlowUpIOSSDK', '~> 0.0.3'
 ```
 
 * Initialize FlowUp from your `AppDelegate` implementation, right from the `application:didFinishLaunchingWithOptions:` method:
