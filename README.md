@@ -50,6 +50,10 @@ class YourAppDelegate: UIResponder, UIApplicationDelegate {
 
 * Go to https://flowup.io/ and wait for your data to appear in less than a minute.
 
+## Internals
+
+Our SDK is implemented in Objective-C and it uses a variety of APIs to collect all the system metrics we use to detect and show you potential performance issues in your app. We don't use any private API (and never will!) so it's completely safe to use FlowUp in your app and upload it to the App Store.
+
 ## Reporting
 
 Did you find an issue? Create a ticket and we will take care as soon as possible.
